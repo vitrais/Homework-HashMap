@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="FominVO:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/FominVO_jar</output-path>
-    <root id="archive" name="FominVO.jar">
-      <element id="module-output" name="FominVO" />
-    </root>
-  </artifact>
-</component>
